@@ -7,10 +7,10 @@
        style="border-radius: 20px; box-shadow: 0 6px 16px rgba(184,164,126,0.15); width: 700px; max-width: 95%;" />
 </div>
 
-<!-- 📊 Stats + Productive Time 卡片（加宽边距 + 虚线隐藏） -->
+<!-- ✅ 完美对齐下方双卡片区域 -->
 <table align="center" style="
   border-collapse: separate;
-  border-spacing: 30px 0; /* 横向间距30px */
+  border-spacing: 20px 0;
   border: none;
   margin: 0 auto;
 ">
@@ -18,12 +18,12 @@
     <td align="center" style="padding: 0; border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
            alt="Stats"
-           style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); width: 350px;" />
+           style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); width: 330px;" />
     </td>
     <td align="center" style="padding: 0; border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
            alt="Productive Time"
-           style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); width: 350px;" />
+           style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); width: 330px;" />
     </td>
   </tr>
 </table>
