@@ -1,12 +1,4 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B8A47E&bg=%23121212&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Zhongwei+Chen.;🎉+Welcome+to+My+Github!;🤖+I'm+interested+in+Multi-modal+and+Cross-view+learning!;💬+Feel+free+to+ask+me+any+questions!)
-
-<div align="center" style="margin-bottom: 30px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISChenawei&theme=dark&text_color=B8A47E" 
-       alt="GitHub Summary"
-       style="border-radius: 20px;
-              box-shadow: 0 6px 16px rgba(184,164,126,0.15);
-              width: 760px;
-              max-width: 95%;" />
 </div>
 ## 👋 Hi there! I'm **Zhongwei Chen (陈中炜)**  
 🎓 Graduate Student @ Xi'an Jiaotong University | 🤖 Multi-modal & Cross-view Researcher
@@ -23,6 +15,13 @@
 ---
 ### ⚡ Fun fact
 > I turn ✈️ aerial views into 📍 grounded insights through code and creativity.
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISChenawei&theme=dark&text_color=B8A47E" 
+       alt="GitHub Summary"
+       style="border-radius: 20px;
+              box-shadow: 0 6px 16px rgba(184,164,126,0.15);
+              width: 760px;
+              max-width: 95%;" />
 
 <!-- 👁️ Visitor Counter 小卡片（简洁金色版） -->
 <div align="center" style="margin-top: 30px;">
