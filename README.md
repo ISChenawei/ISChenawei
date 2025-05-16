@@ -9,7 +9,7 @@
     </td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: top; padding: 15px;">
+<!--     <td style="text-align: center; vertical-align: top; padding: 15px;">
       <img src="https://github-readme-stats.vercel.app/api?username=ISChenawei&show_icons=true&hide_title=true&theme=graywhite&text_color=B85454&icon_color=B85454" 
            alt="GitHub Stats" 
            style="border-radius: 18px; box-shadow: 0 6px 12px rgba(184,164,126,0.1); width: 100%; max-width: 300px;" />
@@ -20,7 +20,7 @@
            style="border-radius: 18px; box-shadow: 0 6px 12px rgba(184,164,126,0.1); width: 100%; max-width: 300px;" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ISChenawei&style=flat-square&color=B8A47E" 
