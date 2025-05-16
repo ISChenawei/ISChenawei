@@ -8,8 +8,6 @@
            style="border-radius: 25px; box-shadow: 0 8px 16px rgba(184,164,126,0.15); width: 100%; max-width: 600px;" />
     </td>
   </tr>
-  <tr>
-<td style="text-align: center; vertical-align: top; padding: 15px;"> 
 </table>
 
 <div align="center">
@@ -23,7 +21,7 @@
   <details>
     <summary style="background: linear-gradient(45deg, #B8A47E 0%, #D1C0A5 50%, #B8A47E 100%);
                    background-size: 200% auto;
-                   color: #121212;
+                   color: #B8A47E;
                    padding: 15px 30px;
                    border-radius: 25px;
                    cursor: pointer;
@@ -35,8 +33,18 @@
       🚀 CLICK 😄
     </summary>
     <div style="margin-top: 25px;">
-      <div style="background: #F9F9F9; border-radius: 20px; padding: 25px; box-shadow: 0 8px 20px rgba(184,164,126,0.15);">
-        <img src="https://github.com/ISChenawei/ISChenawei/blob/master/cat.gif
+      <div style="background: #E6F0FA; border-radius: 20px; padding: 25px; box-shadow: 0 8px 20px rgba(184,164,126,0.15);">
+        <img src="https://github.com/ISChenawei/ISChenawei/blob/master/cat.gif" 
+             alt="Coding Cat" 
+             style="border-radius: 15px; 
+                    box-shadow: 0 6px 12px rgba(184,164,126,0.15);
+                    border: 2px solid rgba(184,164,126,0.2);
+                    width: 350px;" />
+      </div>
+    </div>
+  </details>
+</div>
+
 
 
 
