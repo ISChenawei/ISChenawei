@@ -8,7 +8,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpocXkwZDVxZ3B3M3R1c29ocD
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjl6cjdsNmlzZGZsMGs5cnU4ODQwcGpnb3oyenA3Zm15M3Z4ZHg0ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qMA60yQ2fUkXzm7WD2/giphy.gif" 
      alt="Coding GIF" align="right" width="100" />
 - 🎓 I’m currently a Graduate Research Student at Xi'an Jiaotong University.
-- 🔬 My research focuses on Multi-modal Learning and Cross-view geo-localization.
+- 🔬 My research focuses on Multi-modal and Cross-view Learning.
 - 🎯 Current goal: Successfully complete my Master's degree and pursue a Ph.D.
 - 📫 Email me at: ISChenawei@stu.xjtu.edu.cn ｜ ISChenawei@163.com
 <!-- 👁️ Visitor Counter 小卡片（简洁金色版） -->
