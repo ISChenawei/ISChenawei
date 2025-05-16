@@ -1,25 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B8A47E&bg=%23121212&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Zhongwei+Chen.;🎉+Welcome+to+My+Github!;🤖+I'm+interested+in+Multi-modal+and+Cross-view+learning!;💬+Feel+free+to+ask+me+any+questions!)
-<div align="center">
-  <div style="
-    background: linear-gradient(145deg, #f9f9f9, #f0e8d5);
-    border-radius: 18px;
-    padding: 20px 30px;
-    box-shadow: 0 6px 16px rgba(184,164,126,0.15);
-    font-family: 'Segoe UI', sans-serif;
-    max-width: 480px;
-    color: #121212;
-    text-align: left;
-  ">
-    <h3 style="margin-top: 0; margin-bottom: 10px;">🧑‍💻 Zhongwei Chen (陈中炜)</h3>
-    <p style="margin: 6px 0;">🎓 Graduate Student @ <strong>Xi'an Jiaotong University</strong></p>
-    <p style="margin: 6px 0;">🔬 Focus: <strong>Multi-modal</strong> & <strong>Cross-view Learning</strong></p>
-    <p style="margin: 6px 0;">✈️ UAV vision · 📡 Representation alignment · 🧠 Self-supervised</p>
-    <p style="margin: 6px 0;">🛠️ Skills: <code>Python</code> · <code>PyTorch</code> · <code>LaTeX</code> · <code>Markdown</code></p>
-    <p style="margin: 6px 0;">📬 <code>yourname@stu.xjtu.edu.cn</code></p>
-    <p style="margin: 6px 0;">🔗 <a href="https://yourhomepage.com">Homepage</a> ｜ <a href="https://linkedin.com/in/yourprofile">LinkedIn</a></p>
-  </div>
-</div>
+<!-- 动图装饰（右上角） -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZwM3ZvdXF3cXpyYzJubWF0MWhvajFubW85ajJ3Y2Jlb29kcDlsZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7FrOU9tPbgAZtxV5mb/giphy.gif" 
+     alt="Coding GIF" align="right" width="200" />
 
+- 🎓 I’m currently a Graduate Research Student at Xi'an Jiaotong University.
+- 🔬 My research focuses on Multi-modal Learning and Cross-view geo-localization.
+- 🎯 Current goal: Successfully complete my Master's degree and pursue a Ph.D.
+- 📫 Email me at: ISChenawei@stu.xjtu.edu.cn ｜ ISChenawei@163.com
 <!-- 👁️ Visitor Counter 小卡片（简洁金色版） -->
 <div align="center" style="margin-top: 30px;">
   <div style="
@@ -41,7 +28,23 @@
          style="margin-left: 4px; border-radius: 6px; box-shadow: 0 2px 4px rgba(184,164,126,0.1);" />
   </div>
 </div>
+  
 
+
+<h4>👨🏻‍💻 Languages and Tools</h4>
+
+<p align="left" style="margin-top: 10px; margin-bottom: 20px;">
+  <code><img height="40" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="cpp"/></code>
+  <code><img height="40" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"/></code>
+  <code><img height="40" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"/></code>
+  <code><img height="40" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter"/></code>
+  <code><img height="40" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="pytorch"/></code>
+  <code><img height="40" style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab"/></code>
+</p>
+
+
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=ischenawei&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 
 
