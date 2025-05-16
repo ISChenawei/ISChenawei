@@ -1,26 +1,25 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B8A47E&bg=%23121212&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Zhongwei+Chen.;🎉+Welcome+to+My+Github!;🤖+I'm+interested+in+Multi-modal+and+Cross-view+learning!;💬+Feel+free+to+ask+me+any+questions!)
-<table>
-  <tr>
-    <!-- 左边简介 -->
-    <td>
+<div align="center">
+  <div style="
+    background: linear-gradient(145deg, #f9f9f9, #f0e8d5);
+    border-radius: 18px;
+    padding: 20px 30px;
+    box-shadow: 0 6px 16px rgba(184,164,126,0.15);
+    font-family: 'Segoe UI', sans-serif;
+    max-width: 480px;
+    color: #121212;
+    text-align: left;
+  ">
+    <h3 style="margin-top: 0; margin-bottom: 10px;">🧑‍💻 Zhongwei Chen (陈中炜)</h3>
+    <p style="margin: 6px 0;">🎓 Graduate Student @ <strong>Xi'an Jiaotong University</strong></p>
+    <p style="margin: 6px 0;">🔬 Focus: <strong>Multi-modal</strong> & <strong>Cross-view Learning</strong></p>
+    <p style="margin: 6px 0;">✈️ UAV vision · 📡 Representation alignment · 🧠 Self-supervised</p>
+    <p style="margin: 6px 0;">🛠️ Skills: <code>Python</code> · <code>PyTorch</code> · <code>LaTeX</code> · <code>Markdown</code></p>
+    <p style="margin: 6px 0;">📬 <code>yourname@stu.xjtu.edu.cn</code></p>
+    <p style="margin: 6px 0;">🔗 <a href="https://yourhomepage.com">Homepage</a> ｜ <a href="https://linkedin.com/in/yourprofile">LinkedIn</a></p>
+  </div>
+</div>
 
-      <strong>👋 Hi, I'm Zhongwei Chen (陈中炜)</strong><br/>
-      🎓 Graduate student @ <strong>Xi'an Jiaotong University</strong><br/>
-      🤖 Multi-modal & Cross-view Research<br/>
-      ✈️ UAV vision, self-supervised learning, geometric alignment<br/>
-      🛠️ Python · PyTorch · LaTeX · Markdown<br/>
-      📬 yourname@stu.xjtu.edu.cn<br/>
-      🔗 <a href="https://yourhomepage.com">Homepage</a> ｜ <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
-
-    </td>
-
-    <!-- 右边 GitHub 卡片 -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ISChenawei&show_icons=true&hide_title=true&theme=graywhite&text_color=B8A47E"
-           width="360px"/>
-    </td>
-  </tr>
-</table>
 
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISChenawei&theme=dark&text_color=B8A47E" 
