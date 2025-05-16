@@ -1,47 +1,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B8A47E&bg=%23121212&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Zhongwei+Chen.;🎉+Welcome+to+My+Github!;🤖+I'm+interested+in+Multi-modal+and+Cross-view+learning!;💬+Feel+free+to+ask+me+any+questions!)
 
-<!-- 🔰 卡片组（上下卡片视觉高度缩小） -->
-<div align="center" style="background-color: #0d1117; padding: 4px 0;">
-
-  <!-- 🧠 Summary 卡片 -->
-  <table align="center" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 15px; transform: scale(0.92); transform-origin: top;">
-    <tr>
-      <td style="padding: 0;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISChenawei&theme=github_dark&text_color=B8A47E"
-             alt="GitHub Summary"
-             style="border-radius: 20px;
-                    box-shadow: 0 6px 16px rgba(184,164,126,0.15);
-                    width: 860px;" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- 📊 Stats + Productive Time -->
-  <table align="center" style="border-collapse: separate; border-spacing: 40px 0; margin: 0 auto; transform: scale(0.92); transform-origin: top;">
-    <tr>
-      <td style="padding: 0;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ISChenawei&theme=github_dark&text_color=B8A47E"
-             alt="Stats"
-             style="border-radius: 16px;
-                    box-shadow: 0 4px 12px rgba(184,164,126,0.12);
-                    width: 410px;" />
-      </td>
-      <td style="padding: 0;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ISChenawei&theme=github_dark&text_color=B8A47E"
-             alt="Productive Time"
-             style="border-radius: 16px;
-                    box-shadow: 0 4px 12px rgba(184,164,126,0.12);
-                    width: 410px;" />
-      </td>
-    </tr>
-  </table>
-
+<!-- 🧠 GitHub Summary 卡片（保持 860px 不变） -->
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
+       alt="GitHub Summary"
+       style="border-radius: 20px; box-shadow: 0 6px 16px rgba(184,164,126,0.15); width: 860px; max-width: 95%;" />
 </div>
-
-
-
-
-
 
   <!-- 🐱 金色惊喜按钮 -->
   <details>
