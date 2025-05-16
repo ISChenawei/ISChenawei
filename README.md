@@ -1,28 +1,32 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B8A47E&bg=%23121212&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Zhongwei+Chen.;🎉+Welcome+to+My+Github!;🤖+I'm+interested+in+Multi-modal+and+Cross-view+learning!;💬+Feel+free+to+ask+me+any+questions!)
 
-<!-- 🌟 GitHub Summary 金色风格 + 修复错位卡片 -->
+<!-- 🎯 GitHub 金色风格 + 等高卡片并排 + 错误修复 -->
 <div align="center">
 
-  <!-- 🧠 总览卡片 -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISChenawei&theme=github_dark" 
+  <!-- 📊 总览卡片 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
        alt="GitHub Profile"
        style="border-radius: 20px; box-shadow: 0 6px 18px rgba(184,164,126,0.2); max-width: 750px; width: 95%; margin-bottom: 25px;" />
 
-  <!-- 📈 Stats & Productive Time -->
+  <!-- 📈 Stats + Productive Time -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; margin-bottom: 30px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ISChenawei&theme=github_dark" 
-         alt="Stats"
-         style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.15); max-width: 340px;" />
 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ISChenawei&theme=github_dark" 
-         alt="Most Productive Time"
-         style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.15); max-width: 340px;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
+         alt="Stats"
+         style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.15); width: 340px;" />
+
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
+         alt="Productive Time"
+         style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.15); width: 340px;" />
+
   </div>
 
   <!-- 👁 访问计数器 -->
   <img src="https://komarev.com/ghpvc/?username=ISChenawei&style=flat-square&color=B8A47E" 
        alt="Visitor Count"
-       style="margin-bottom: 20px; box-shadow: 0 3px 6px rgba(184,164,126,0.1); border-radius: 12px;" />
+       style="margin-bottom: 20px; box-shadow: 0 3px 6px rgba(184,164,126,0.15); border-radius: 10px;" />
+</div>
+
 
   <!-- 🐱 金色惊喜按钮 -->
   <details>
