@@ -5,7 +5,7 @@
        alt="GitHub Summary"
        style="border-radius: 20px;
               box-shadow: 0 6px 16px rgba(184,164,126,0.15);
-              width: 860px;
+              width: 760px;
               max-width: 95%;" />
 </div>
 
