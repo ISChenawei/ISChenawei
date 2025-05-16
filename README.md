@@ -1,10 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B8A47E&bg=%23121212&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Zhongwei+Chen.;🎉+Welcome+to+My+Github!;🤖+I'm+interested+in+Multi-modal+and+Cross-view+learning!;💬+Feel+free+to+ask+me+any+questions!)
 
-<!-- 🔰 包裹一层背景遮罩，让 table 边框隐形 -->
-<div align="center" style="background-color: #0d1117; padding: 10px 0;">
+<!-- 🔰 包裹一层背景遮罩，让 table 边框隐形 + 紧凑间距 -->
+<div align="center" style="background-color: #0d1117; padding: 4px 0;">
 
   <!-- 🧠 Summary 卡片 -->
-  <table align="center" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 30px;">
+  <table align="center" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 15px;">
     <tr>
       <td style="padding: 0;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISChenawei&theme=github_dark&text_color=B8A47E"
@@ -37,6 +37,7 @@
   </table>
 
 </div>
+
 
 
 
