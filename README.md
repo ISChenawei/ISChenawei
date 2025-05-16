@@ -1,13 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B8A47E&bg=%23121212&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Zhongwei+Chen.;🎉+Welcome+to+My+Github!;🤖+I'm+interested+in+Multi-modal+and+Cross-view+learning!;💬+Feel+free+to+ask+me+any+questions!)
 
-<!-- 🧠 GitHub Summary 卡片（包裹在 table 中，宽 860px） -->
-<table align="center" style="
-  border-collapse: collapse;
-  border-spacing: 0;
-  margin-bottom: 30px;
-">
-  <tr>
-    <td align="center" style="padding: 0;">
+<!-- 🧠 Summary 卡片 (视觉无痕 table 包裹) -->
+<table align="center" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 30px; border: none;">
+  <tr style="border: none;">
+    <td style="padding: 0; border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
            alt="GitHub Summary"
            style="border-radius: 20px;
@@ -17,22 +13,17 @@
   </tr>
 </table>
 
-<!-- ✅ Stats + Productive Time 卡片（左右对齐 + 间距 40px） -->
-<table align="center" style="
-  border-collapse: separate;
-  border-spacing: 40px 0;
-  border: none;
-  margin: 0 auto;
-">
+<!-- 📊 Stats + Productive Time -->
+<table align="center" style="border-collapse: separate; border-spacing: 40px 0; border: none; margin: 0 auto;">
   <tr style="border: none;">
-    <td align="center" style="padding: 0; border: none;">
+    <td style="padding: 0; border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
            alt="Stats"
            style="border-radius: 16px;
                   box-shadow: 0 4px 12px rgba(184,164,126,0.12);
                   width: 410px;" />
     </td>
-    <td align="center" style="padding: 0; border: none;">
+    <td style="padding: 0; border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
            alt="Productive Time"
            style="border-radius: 16px;
@@ -41,6 +32,7 @@
     </td>
   </tr>
 </table>
+
 
   <!-- 🐱 金色惊喜按钮 -->
   <details>
