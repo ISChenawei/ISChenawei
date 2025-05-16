@@ -1,6 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B8A47E&bg=%23121212&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Zhongwei+Chen.;🎉+Welcome+to+My+Github!;🤖+I'm+interested+in+Multi-modal+and+Cross-view+learning!;💬+Feel+free+to+ask+me+any+questions!)
 
 <!-- 🧠 GitHub Summary 卡片（保持 860px 不变） -->
+<table style="width: 100%; border-collapse: separate; border-spacing: 20px; margin: 30px 0;">
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
        alt="GitHub Summary"
