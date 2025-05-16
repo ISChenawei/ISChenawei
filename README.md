@@ -1,29 +1,33 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B8A47E&bg=%23121212&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Zhongwei+Chen.;🎉+Welcome+to+My+Github!;🤖+I'm+interested+in+Multi-modal+and+Cross-view+learning!;💬+Feel+free+to+ask+me+any+questions!)
 
-<!-- 🧠 GitHub Summary 卡片（保持 860px 不变） -->
+<!-- 🧠 GitHub Summary 卡片（保持 860px 宽） -->
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
        alt="GitHub Summary"
        style="border-radius: 20px; box-shadow: 0 6px 16px rgba(184,164,126,0.15); width: 860px; max-width: 95%;" />
 </div>
 
-<!-- ✅ Stats + Productive Time 卡片（左右对齐 + 间距 40px） -->
+<!-- 📊 Stats + Productive Time 卡片（内部对齐居中） -->
 <table align="center" style="
   border-collapse: separate;
   border-spacing: 40px 0;
   border: none;
   margin: 0 auto;
 ">
-  <tr style="border: none;">
-    <td align="center" style="padding: 0; border: none;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
-           alt="Stats"
-           style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); width: 410px;" />
+  <tr>
+    <td align="center" style="width: 410px; padding: 0;">
+      <div style="width: 410px; display: flex; justify-content: center;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
+             alt="Stats"
+             style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); max-width: 100%;" />
+      </div>
     </td>
-    <td align="center" style="padding: 0; border: none;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
-           alt="Productive Time"
-           style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); width: 410px;" />
+    <td align="center" style="width: 410px; padding: 0;">
+      <div style="width: 410px; display: flex; justify-content: center;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
+             alt="Productive Time"
+             style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); max-width: 100%;" />
+      </div>
     </td>
   </tr>
 </table>
