@@ -18,12 +18,12 @@
     <td align="center" style="padding: 0; border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
            alt="Stats"
-           style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); width: 490px;" />
+           style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); width: 520px;" />
     </td>
     <td align="center" style="padding: 0; border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
            alt="Productive Time"
-           style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); width: 490px;" />
+           style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); width: 520px;" />
     </td>
   </tr>
 </table>
