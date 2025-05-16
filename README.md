@@ -53,14 +53,14 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpocXkwZDVxZ3B3M3R1c29ocD
 <h2>🏆 Github Stats</h2> 
 <!-- 📊 左侧：GitHub 统计 -->
 <a href="https://github.com/muskanrani/github-readme-stats">
-  <img align="left" width="48%" 
+  <img align="left" width="43%" 
        src="https://github-readme-stats.vercel.app/api?username=muskanrani&show_icons=true&hide_title=true&theme=shadow_blue&hide_border=true" 
        alt="GitHub Stats" />
 </a>
 
 <!-- 🏆 右侧：GitHub 奖杯卡片（行内展示） -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="right" width="48%" 
+  <img align="right" width="43%" 
        src="https://github-profile-trophy.vercel.app/?username=ISChenawei&theme=onedark&no-frame=true&no-bg=true&row=1&column=3&margin-w=10&title=Commit,Stars,Repositories" 
        alt="GitHub Trophies" />
 </a>
