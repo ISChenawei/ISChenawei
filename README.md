@@ -9,32 +9,29 @@
               max-width: 95%;" />
 </div>
 
-  <!-- 🐱 金色惊喜按钮 -->
-  <details>
-    <summary style="background: linear-gradient(135deg, #B8A47E, #EBD9B4);
-                    color: #121212;
-                    padding: 12px 28px;
-                    border-radius: 30px;
-                    cursor: pointer;
-                    font-size: 18px;
-                    font-weight: 600;
-                    box-shadow: 0 4px 12px rgba(184,164,126,0.2);
-                    transition: all 0.3s ease;
-                    margin: 25px 0;">
-      🚀 CLICK TO REVEAL 😄
-    </summary>
-    <div style="margin-top: 20px;">
-      <div style="background: #F9F9F9; border-radius: 18px; padding: 25px; box-shadow: 0 6px 20px rgba(184,164,126,0.12);">
-        <img src="https://github.com/ISChenawei/ISChenawei/blob/master/cat.gif" 
-             alt="Coding Cat" 
-             style="border-radius: 15px; 
-                    box-shadow: 0 6px 12px rgba(184,164,126,0.1);
-                    border: 2px solid rgba(184,164,126,0.15);
-                    width: 350px;" />
-      </div>
-    </div>
-  </details>
+<!-- 👁️ Visitor Counter 小卡片（简洁金色版） -->
+<div align="center" style="margin-top: 30px;">
+  <div style="
+    display: inline-block;
+    background: linear-gradient(135deg, #F9F9F9, #F0E8D5);
+    border-radius: 20px;
+    padding: 12px 25px;
+    box-shadow: 0 4px 16px rgba(184,164,126,0.2);
+    font-size: 16px;
+    font-weight: bold;
+    color: #121212;
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  ">
+    🧭 <span style="color: #B8A47E;">Visitor Count:</span>
+    <img src="https://komarev.com/ghpvc/?username=ISChenawei&style=flat-square&color=B8A47E" 
+         alt="Visitor Count"
+         style="margin-left: 4px; border-radius: 6px; box-shadow: 0 2px 4px rgba(184,164,126,0.1);" />
+  </div>
 </div>
+
 
 
 
