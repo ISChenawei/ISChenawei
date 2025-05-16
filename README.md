@@ -2,7 +2,7 @@
 
 <!-- 🧠 GitHub Summary 卡片（保持 860px 不变） -->
 <div align="center" style="margin-bottom: 30px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISChenawei&theme=tokyonight_light" 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISChenawei&theme=default" 
        alt="GitHub Summary"
        style="border-radius: 20px; box-shadow: 0 6px 16px rgba(184,164,126,0.15); width: 860px; max-width: 95%;" />
 </div>
