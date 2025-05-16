@@ -8,18 +8,19 @@
        alt="GitHub Profile"
        style="border-radius: 20px; box-shadow: 0 6px 18px rgba(184,164,126,0.2); max-width: 750px; width: 95%; margin-bottom: 25px;" />
 
-  <!-- 📈 Stats + Productive Time -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; margin-bottom: 30px;">
+ <!-- ✅ 两张图并排展示，金色字体，宽度一致 -->
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
-         alt="Stats"
-         style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.15); width: 340px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
+       alt="Stats"
+       style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.15); width: 340px;" />
 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
-         alt="Productive Time"
-         style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.15); width: 340px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
+       alt="Productive Time"
+       style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.15); width: 340px;" />
 
-  </div>
+</div>
+
 
   <!-- 👁 访问计数器 -->
   <img src="https://komarev.com/ghpvc/?username=ISChenawei&style=flat-square&color=B8A47E" 
