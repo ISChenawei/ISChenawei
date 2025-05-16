@@ -1,22 +1,22 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B8A47E&bg=%23121212&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Zhongwei+Chen.;🎉+Welcome+to+My+Github!;🤖+I'm+interested+in+Multi-modal+and+Cross-view+learning!;💬+Feel+free+to+ask+me+any+questions!)
 
-<!-- 🎯 GitHub Summary 优化展示 -->
+<!-- 🌟 GitHub Summary 金色风格 + 修复错位卡片 -->
 <div align="center">
 
   <!-- 🧠 总览卡片 -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISChenawei&theme=vue" 
-       alt="GitHub Profile" 
-       style="border-radius: 20px; box-shadow: 0 6px 18px rgba(184,164,126,0.15); max-width: 700px; width: 95%; margin-bottom: 20px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISChenawei&theme=github_dark" 
+       alt="GitHub Profile"
+       style="border-radius: 20px; box-shadow: 0 6px 18px rgba(184,164,126,0.2); max-width: 750px; width: 95%; margin-bottom: 25px;" />
 
-  <!-- 📈 GitHub 统计 + 使用时段 -->
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ISChenawei&theme=vue" 
-         alt="GitHub Stats"
-         style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); max-width: 330px;" />
+  <!-- 📈 Stats & Productive Time -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; margin-bottom: 30px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ISChenawei&theme=github_dark" 
+         alt="Stats"
+         style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.15); max-width: 340px;" />
 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ISChenawei&theme=vue" 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ISChenawei&theme=github_dark" 
          alt="Most Productive Time"
-         style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); max-width: 330px;" />
+         style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.15); max-width: 340px;" />
   </div>
 
   <!-- 👁 访问计数器 -->
