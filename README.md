@@ -8,6 +8,21 @@
               width: 760px;
               max-width: 95%;" />
 </div>
+## 👋 Hi there! I'm **Zhongwei Chen (陈中炜)**  
+🎓 Graduate Student @ Xi'an Jiaotong University | 🤖 Multi-modal & Cross-view Researcher
+
+### 💡 About Me
+- 🧠 Focused on **Multi-modal Learning** & **Cross-view Representation**
+- ✈️ Exploring topics in **UAV vision**, **self-supervised learning**, and **geometric alignment**
+- 🛠️ Skilled in: `Python`, `PyTorch`, `LaTeX`, `Markdown`
+- 🌐 Striving to bridge **perception** and **understanding** across modalities
+---
+### 📫 How to reach me
+- 💌 Email: `yourname@stu.xjtu.edu.cn` *(replace with yours)*
+- 🔗 [Homepage](https://yourhomepage.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+---
+### ⚡ Fun fact
+> I turn ✈️ aerial views into 📍 grounded insights through code and creativity.
 
 <!-- 👁️ Visitor Counter 小卡片（简洁金色版） -->
 <div align="center" style="margin-top: 30px;">
