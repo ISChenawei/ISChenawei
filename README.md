@@ -1,8 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B8A47E&bg=%23121212&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Zhongwei+Chen.;🎉+Welcome+to+My+Github!;🤖+I'm+interested+in+Multi-modal+and+Cross-view+learning!;💬+Feel+free+to+ask+me+any+questions!)
 <!-- 动图装饰（右上角） -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZwM3ZvdXF3cXpyYzJubWF0MWhvajFubW85ajJ3Y2Jlb29kcDlsZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7FrOU9tPbgAZtxV5mb/giphy.gif" 
-     alt="Coding GIF" align="right" width="200" />
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pmbjYwaHcxNXNhNGV5b3NlYnB1amh0N2c3eHAybWJxOXh1dDRyaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" 
+     alt="Coding GIF" align="right" width="100" />
+<img 
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpocXkwZDVxZ3B3M3R1c29ocDNsNGN5bDlodGdmaWhlemUyMXpoaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UIORmzXnDn8wTGvnXP/giphy.gif" 
+     alt="Coding GIF" align="right" width="100" />
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjl6cjdsNmlzZGZsMGs5cnU4ODQwcGpnb3oyenA3Zm15M3Z4ZHg0ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qMA60yQ2fUkXzm7WD2/giphy.gif" 
+     alt="Coding GIF" align="right" width="100" />
 - 🎓 I’m currently a Graduate Research Student at Xi'an Jiaotong University.
 - 🔬 My research focuses on Multi-modal Learning and Cross-view geo-localization.
 - 🎯 Current goal: Successfully complete my Master's degree and pursue a Ph.D.
