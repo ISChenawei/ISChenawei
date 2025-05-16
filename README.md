@@ -10,7 +10,7 @@
 <!-- 📊 Stats + Productive Time 并排（更宽：370+370） -->
 <table align="center" style="
   border-collapse: separate;
-  border-spacing: 20px 0;
+  border-spacing: 40px 0;
   border: none;
   margin: 0 auto;
 ">
