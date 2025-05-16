@@ -10,7 +10,7 @@
 <!-- 📊 Stats + Productive Time 并排（更宽：370+370） -->
 <table align="center" style="
   border-collapse: separate;
-  border-spacing: 40px 0;
+  border-spacing: 60px 0;
   border: none;
   margin: 0 auto;
 ">
@@ -18,12 +18,12 @@
     <td align="center" style="padding: 0; border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
            alt="Stats"
-           style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); width: 470px;" />
+           style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); width: 490px;" />
     </td>
     <td align="center" style="padding: 0; border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
            alt="Productive Time"
-           style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); width: 470px;" />
+           style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); width: 490px;" />
     </td>
   </tr>
 </table>
