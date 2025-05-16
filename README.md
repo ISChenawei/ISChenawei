@@ -1,27 +1,33 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B8A47E&bg=%23121212&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Zhongwei+Chen.;🎉+Welcome+to+My+Github!;🤖+I'm+interested+in+Multi-modal+and+Cross-view+learning!;💬+Feel+free+to+ask+me+any+questions!)
 
-<!-- 🎯 GitHub 总览卡片 -->
+<!-- 🧠 GitHub Summary 卡片 -->
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
        alt="GitHub Summary"
        style="border-radius: 20px; box-shadow: 0 6px 16px rgba(184,164,126,0.15); width: 700px; max-width: 95%;" />
 </div>
 
-<!-- 📊 Stats + Productive Time 并排且对齐 -->
-<table align="center" style="border-collapse: collapse; border-spacing: 0; margin: 0 auto;">
-  <tr>
-    <td style="padding: 0 10px;">
+<!-- 📊 Stats + Productive Time 卡片（加宽边距 + 虚线隐藏） -->
+<table align="center" style="
+  border-collapse: separate;
+  border-spacing: 30px 0; /* 横向间距30px */
+  border: none;
+  margin: 0 auto;
+">
+  <tr style="border: none;">
+    <td align="center" style="padding: 0; border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
            alt="Stats"
-           style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); width: 340px;" />
+           style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); width: 350px;" />
     </td>
-    <td style="padding: 0 10px;">
+    <td align="center" style="padding: 0; border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ISChenawei&theme=github_dark&text_color=B8A47E" 
            alt="Productive Time"
-           style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); width: 340px;" />
+           style="border-radius: 16px; box-shadow: 0 4px 12px rgba(184,164,126,0.12); width: 350px;" />
     </td>
   </tr>
 </table>
+
 
 
   <!-- 🐱 金色惊喜按钮 -->
