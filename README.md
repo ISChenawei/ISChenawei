@@ -25,7 +25,6 @@
     align-items: center;
     gap: 12px;
   ">
-    🧭 <span style="color: #B8A47E;">Visitor Count:</span>
     <img src="https://komarev.com/ghpvc/?username=ISChenawei&style=flat-square&color=B8A47E" 
          alt="Visitor Count"
          style="margin-left: 4px; border-radius: 6px; box-shadow: 0 2px 4px rgba(184,164,126,0.1);" />
