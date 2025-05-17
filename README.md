@@ -54,7 +54,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpocXkwZDVxZ3B3M3R1c29ocD
 <!-- 📊 左侧：GitHub 统计 -->
 <a href="https://github.com/muskanrani/github-readme-stats">
   <img align="left" width="45%" 
-       src="https://github-readme-stats.vercel.app/api?username=muskanrani&show_icons=true&hide_title=true&theme=shadow_blue&hide_border=true" 
+       src="https://github-readme-stats.vercel.app/api?username=ISChenawei&show_icons=true&hide_title=true&theme=shadow_blue&hide_border=true" 
        alt="GitHub Stats" />
 </a>
 
