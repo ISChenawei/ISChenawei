@@ -37,7 +37,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpocXkwZDVxZ3B3M3R1c29ocD
   
 
 
-<h2>👨🏻‍💻 Languages and Tools</h2>
+<h3>👨🏻‍💻 Languages and Tools</h3>
 
 <p align="left" style="margin-top: 10px; margin-bottom: 20px;">
   <!-- 技术图标 -->
@@ -50,7 +50,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpocXkwZDVxZ3B3M3R1c29ocD
   <code><img height="40" style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab"/></code>
 </p>
 
-<h2>🏆 Github Stats</h2> 
+<h3>🏆 Github Stats</h3> 
 <!-- 📊 左侧：GitHub 统计 -->
 <a href="https://github.com/muskanrani/github-readme-stats">
   <img align="left" width="45%" 
