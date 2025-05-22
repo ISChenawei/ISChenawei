@@ -59,12 +59,11 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpocXkwZDVxZ3B3M3R1c29ocD
 </a>
 
 <!-- 🏆 右侧：GitHub 奖杯卡片（行内展示） -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/muskanrani/github-readme-stats">
   <img align="right" width="45%" 
-       src="https://github-profile-trophy.vercel.app/?username=ISChenawei&theme=onedark&no-frame=true&no-bg=true&row=1&column=3&margin-w=10&title=Commit,Stars,Repositories" 
-       alt="GitHub Trophies" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISChenawei&layout=compact&hide_title=true&theme=shadow_blue&hide_border=true" 
+       alt="Top Languages" />
 </a>
-
 <br clear="both"/>
 
 
