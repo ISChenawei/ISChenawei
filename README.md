@@ -61,13 +61,19 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpocXkwZDVxZ3B3M3R1c29ocD
     alt="GitHub Stats"
   />
 </a>
+<br clear="both"/>
 
-<!-- 🏆 右侧：GitHub 奖杯卡片（行内展示） -->
-<a href="https://github.com/muskanrani/github-readme-stats">
-  <img align="right" width="45%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISChenawei&layout=compact&hide_title=true&theme=blue&hide_border=true" 
-       alt="Top Languages" />
+
+<!-- Top Languages -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img 
+    align="right"
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISChenawei&layout=compact&hide_title=true&theme=shadow_blue&hide_border=true"
+    alt="Top Languages"
+  />
 </a>
+
 <br clear="both"/>
 
 
