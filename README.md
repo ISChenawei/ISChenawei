@@ -51,12 +51,14 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpocXkwZDVxZ3B3M3R1c29ocD
 </p>
 
 <h3>🏆 Github Stats</h3> 
-<!-- 📊 左侧：GitHub 统计 -->
-<a href="https://github.com/muskanrani/github-readme-stats">
-  <img align="left" width="45%" 
+
+<!-- GitHub Stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" width="45%"
        src="https://github-readme-stats.vercel.app/api?username=ISChenawei&show_icons=true&hide_title=true&theme=shadow_blue&hide_border=true" 
        alt="GitHub Stats" />
 </a>
+
 
 <!-- 🏆 右侧：GitHub 奖杯卡片（行内展示） -->
 <a href="https://github.com/muskanrani/github-readme-stats">
