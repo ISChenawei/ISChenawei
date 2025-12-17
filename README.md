@@ -50,8 +50,9 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpocXkwZDVxZ3B3M3R1c29ocD
   <code><img height="40" style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab"/></code>
 </p>
 
-<!-- <h3>🏆 Github Stats</h3> 
+<h3>🏆 Github Stats</h3>
 
+<!-- GitHub Stats -->
 <a href="https://github.com/ISChenawei">
   <img
     align="left"
@@ -61,6 +62,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpocXkwZDVxZ3B3M3R1c29ocD
   />
 </a>
 
+<!-- Top Languages -->
 <a href="https://github.com/ISChenawei">
   <img
     align="right"
@@ -70,7 +72,8 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpocXkwZDVxZ3B3M3R1c29ocD
   />
 </a>
 
-<br clear="both"/> -->
+<br clear="both" />
+
 
 
 
