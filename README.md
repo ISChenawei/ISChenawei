@@ -50,6 +50,27 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpocXkwZDVxZ3B3M3R1c29ocD
   <code><img height="40" style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab"/></code>
 </p>
 
+<!-- <h3>🏆 Github Stats</h3> 
+
+<a href="https://github.com/ISChenawei">
+  <img
+    align="left"
+    width="50%"
+    src="https://github-readme-stats.vercel.app/api?username=ISChenawei&show_icons=true&hide_title=true&theme=shadow_blue&hide_border=true"
+    alt="GitHub Stats"
+  />
+</a>
+
+<a href="https://github.com/ISChenawei">
+  <img
+    align="right"
+    width="40%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISChenawei&layout=compact&hide_title=true&theme=shadow_blue&hide_border=true"
+    alt="Top Languages"
+  />
+</a>
+
+<br clear="both"/> -->
 
 
 
