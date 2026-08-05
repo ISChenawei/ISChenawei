@@ -11,7 +11,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpocXkwZDVxZ3B3M3R1c29ocD
 - 🎓 I’m currently a Graduate Research Student at Xi'an Jiaotong University.
 - 🔬 My research focuses on Multi-modal and Cross-view Learning.
 - 🎯 Current goal: Successfully complete my Master's degree and pursue a Ph.D.
-- 📫 Email me at: ISChenawei@stu.xjtu.edu.cn ｜ ISChenawei@163.com
+- 📫 Welcome for cooperation. Email me at: ISChenawei@stu.xjtu.edu.cn｜ISChenawei@163.com
 
 <!-- 👁️ Visitor Counter 小卡片（简洁金色版） -->
 <div align="center" style="margin-top: 30px;">
