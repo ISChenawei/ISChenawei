@@ -13,19 +13,6 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpocXkwZDVxZ3B3M3R1c29ocD
 - 🎯 Current goal: Successfully complete my Master's degree and pursue a Ph.D.
 - 📫 Welcome for cooperation. Email me at: ISChenawei@stu.xjtu.edu.cn
 
-
-<p align="center">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/ISChenawei">
-    <img src="https://komarev.com/ghpvc/?username=ISChenawei&label=👁%20Visitors&style=flat&color=B8A47E" />
-  </a>
-
-  <a href="https://github.com/ISChenawei">
-    <img src="https://img.shields.io/github/stars/ISChenawei?affiliations=OWNER&label=Stars&style=flat&logo=github&color=B8A47E" />
-  </a>
-</p>
-
 <h3>👨🏻‍💻 Languages and Tools</h3>
 
 <p align="left" style="margin-top: 10px; margin-bottom: 20px;">
@@ -38,6 +25,15 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpocXkwZDVxZ3B3M3R1c29ocD
   <code><img height="40" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="pytorch"/></code>
   <code><img height="40" style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab"/></code>
 
+<p align="center">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+  <a href="https://github.com/ISChenawei">
+    <img src="https://komarev.com/ghpvc/?username=ISChenawei&label=👁%20Visitors&style=flat&color=B8A47E" />
+  </a>
 
+  <a href="https://github.com/ISChenawei">
+    <img src="https://img.shields.io/github/stars/ISChenawei?affiliations=OWNER&label=Stars&style=flat&logo=github&color=B8A47E" />
+  </a>
+</p>
 
